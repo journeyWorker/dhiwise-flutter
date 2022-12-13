@@ -1,0 +1,1 @@
+class ListellipseSeven1ItemModel { }

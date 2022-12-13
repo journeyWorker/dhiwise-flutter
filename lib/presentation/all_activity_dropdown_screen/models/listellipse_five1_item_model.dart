@@ -1,0 +1,1 @@
+class ListellipseFive1ItemModel { }
